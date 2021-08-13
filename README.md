@@ -4,4 +4,4 @@ Task 1; Data Quality Assessment: Assessment of data quality and completeness in 
 Task 2; Data Insights Targeting high value customers based on customer demographics and attributes. 
 Task 3; Data Insights and Presentation Using visualizations to present insights.
 
-The data was successfully analysed according to the tasks, and the results were presented in a powerpoint slide I developed.
+The data was successfully analysed according to the tasks, and the insights gotten were presented in a powerpoint slide I developed.
